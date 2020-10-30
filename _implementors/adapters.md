@@ -19,6 +19,7 @@ The following table lists the known debug adapters that implement the Debug Adap
 [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)|[@DanTup](https://github.com/DanTup) [@devoncarew](https://github.com/devoncarew)|[Dart-Code/Dart-Code](https://github.com/Dart-Code/Dart-Code)
 [Debug](https://marketplace.visualstudio.com/items?itemName=webfreak.debug)|[@WebFreak001](https://github.com/WebFreak001)|[WebFreak001/code-debug](https://github.com/WebFreak001/code-debug)
 [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)|[@roblourens](https://github.com/roblourens)|[Microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug)
+[DeZog](https://marketplace.visualstudio.com/items?itemName=maziac.dezog)|[@maziac](https://github.com/maziac)|[maziac/DeZog](https://github.com/maziac/DeZog)
 [Debugger for Edge](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)|[@andysterland](https://github.com/andysterland)|[Microsoft/vscode-edge-debug2](https://github.com/Microsoft/vscode-edge-debug2)
 [Debugger for Electron](https://marketplace.visualstudio.com/items?itemName=kodetech.electron-debug)|[@Kode](https://github.com/Kode)|[Kode/vscode-electron-debug](https://github.com/Kode/vscode-electron-debug)
 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-firefox-debug)|[@hbenl](https://github.com/hbenl)|[hbenl/vscode-firefox-debug](https://github.com/hbenl/vscode-firefox-debug)
